@@ -1,0 +1,6 @@
+c:\users\kirill.juriev\documents\visual studio 2013\Projects\Args\Args\bin\Debug\Args.exe.config
+c:\users\kirill.juriev\documents\visual studio 2013\Projects\Args\Args\bin\Debug\Args.exe
+c:\users\kirill.juriev\documents\visual studio 2013\Projects\Args\Args\bin\Debug\Args.pdb
+c:\users\kirill.juriev\documents\visual studio 2013\Projects\Args\Args\obj\Debug\Args.csprojResolveAssemblyReference.cache
+c:\users\kirill.juriev\documents\visual studio 2013\Projects\Args\Args\obj\Debug\Args.exe
+c:\users\kirill.juriev\documents\visual studio 2013\Projects\Args\Args\obj\Debug\Args.pdb
